@@ -1,3 +1,3 @@
 # hello-world
-the first
+hi there
 Some bit about me
